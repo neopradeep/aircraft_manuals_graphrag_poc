@@ -1,0 +1,2109 @@
+[
+  {
+    "id": "IC-001",
+    "fleet": "B737",
+    "a": "60-30926-23",
+    "b": "69-99593-21",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "21-11-00",
+    "assembly_id": "B737-21-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-002",
+    "fleet": "B737",
+    "a": "69-89131-09",
+    "b": "69-93886-23",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "21-11-00",
+    "assembly_id": "B737-21-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-003",
+    "fleet": "B737",
+    "a": "285-62350-12",
+    "b": "60-44522-17",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "21-21-00",
+    "assembly_id": "B737-21-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-004",
+    "fleet": "B737",
+    "a": "162-88172-03",
+    "b": "285-36071-05",
+    "type": "conditional",
+    "sb": "SB 21-2217",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-21-00",
+    "assembly_id": "B737-21-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-005",
+    "fleet": "B737",
+    "a": "60-79822-25",
+    "b": "162-38080-18",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-31-00",
+    "assembly_id": "B737-21-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-006",
+    "fleet": "B737",
+    "a": "285-31643-09",
+    "b": "162-34957-04",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-31-00",
+    "assembly_id": "B737-21-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-007",
+    "fleet": "B737",
+    "a": "285-38864-01",
+    "b": "60-17944-13",
+    "type": "conditional",
+    "sb": "SB 21-0388",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "21-31-00",
+    "assembly_id": "B737-21-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-008",
+    "fleet": "B737",
+    "a": "65-18834-29",
+    "b": "162-28373-14",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-31-00",
+    "assembly_id": "B737-21-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-009",
+    "fleet": "B737",
+    "a": "65-31798-14",
+    "b": "65-85880-20",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B"
+    ],
+    "ata": "21-41-00",
+    "assembly_id": "B737-21-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-010",
+    "fleet": "B737",
+    "a": "60-16572-19",
+    "b": "65-44814-13",
+    "type": "conditional",
+    "sb": "SB 21-0388",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-41-00",
+    "assembly_id": "B737-21-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-011",
+    "fleet": "B737",
+    "a": "65-55745-29",
+    "b": "65-93507-09",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-11-00",
+    "assembly_id": "B737-24-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-012",
+    "fleet": "B737",
+    "a": "60-27601-09",
+    "b": "65-81511-02",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "24-11-00",
+    "assembly_id": "B737-24-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-013",
+    "fleet": "B737",
+    "a": "65-93130-28",
+    "b": "60-56898-07",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "24-11-00",
+    "assembly_id": "B737-24-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-014",
+    "fleet": "B737",
+    "a": "162-39154-07",
+    "b": "60-78146-26",
+    "type": "conditional",
+    "sb": "SB 24-2217",
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "24-21-00",
+    "assembly_id": "B737-24-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-015",
+    "fleet": "B737",
+    "a": "65-65108-22",
+    "b": "162-90120-28",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-31-00",
+    "assembly_id": "B737-24-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-016",
+    "fleet": "B737",
+    "a": "285-95813-11",
+    "b": "162-62383-08",
+    "type": "conditional",
+    "sb": "SB 24-1042",
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "24-31-00",
+    "assembly_id": "B737-24-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-017",
+    "fleet": "B737",
+    "a": "285-97012-21",
+    "b": "285-70889-02",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "24-31-00",
+    "assembly_id": "B737-24-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-018",
+    "fleet": "B737",
+    "a": "162-18161-07",
+    "b": "162-64921-18",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-41-00",
+    "assembly_id": "B737-24-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-019",
+    "fleet": "B737",
+    "a": "162-31632-27",
+    "b": "60-83920-07",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "27-11-00",
+    "assembly_id": "B737-27-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-020",
+    "fleet": "B737",
+    "a": "60-94246-14",
+    "b": "60-31465-10",
+    "type": "conditional",
+    "sb": "SB 27-1042",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "27-11-00",
+    "assembly_id": "B737-27-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-021",
+    "fleet": "B737",
+    "a": "60-42411-07",
+    "b": "65-23356-23",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "27-11-00",
+    "assembly_id": "B737-27-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-022",
+    "fleet": "B737",
+    "a": "162-30052-14",
+    "b": "162-68743-26",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "27-21-00",
+    "assembly_id": "B737-27-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-023",
+    "fleet": "B737",
+    "a": "69-90728-26",
+    "b": "65-50135-22",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "27-21-00",
+    "assembly_id": "B737-27-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-024",
+    "fleet": "B737",
+    "a": "285-88222-10",
+    "b": "69-21164-08",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "27-31-00",
+    "assembly_id": "B737-27-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-025",
+    "fleet": "B737",
+    "a": "65-93606-28",
+    "b": "162-68028-10",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "27-31-00",
+    "assembly_id": "B737-27-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-026",
+    "fleet": "B737",
+    "a": "285-84607-10",
+    "b": "65-71669-17",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "27-41-00",
+    "assembly_id": "B737-27-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-027",
+    "fleet": "B737",
+    "a": "60-88385-02",
+    "b": "162-21959-16",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "27-41-00",
+    "assembly_id": "B737-27-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-028",
+    "fleet": "B737",
+    "a": "162-64165-02",
+    "b": "162-34983-20",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "B737-29-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-029",
+    "fleet": "B737",
+    "a": "65-47752-15",
+    "b": "162-54548-26",
+    "type": "conditional",
+    "sb": "SB 29-0388",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "B737-29-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-030",
+    "fleet": "B737",
+    "a": "285-41365-23",
+    "b": "285-86011-22",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "B737-29-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-031",
+    "fleet": "B737",
+    "a": "69-71993-23",
+    "b": "60-16028-11",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-21-00",
+    "assembly_id": "B737-29-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-032",
+    "fleet": "B737",
+    "a": "162-12011-24",
+    "b": "65-32280-06",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-21-00",
+    "assembly_id": "B737-29-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-033",
+    "fleet": "B737",
+    "a": "162-95175-03",
+    "b": "65-40433-15",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "29-21-00",
+    "assembly_id": "B737-29-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-034",
+    "fleet": "B737",
+    "a": "162-23979-08",
+    "b": "69-79579-17",
+    "type": "conditional",
+    "sb": "SB 29-2217",
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "29-31-00",
+    "assembly_id": "B737-29-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-035",
+    "fleet": "B737",
+    "a": "285-42850-22",
+    "b": "60-71385-03",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "29-31-00",
+    "assembly_id": "B737-29-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-036",
+    "fleet": "B737",
+    "a": "162-25292-05",
+    "b": "285-94518-12",
+    "type": "conditional",
+    "sb": "SB 29-3109",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-41-00",
+    "assembly_id": "B737-29-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-037",
+    "fleet": "B737",
+    "a": "162-25220-04",
+    "b": "162-22015-22",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-41-00",
+    "assembly_id": "B737-29-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-038",
+    "fleet": "B737",
+    "a": "162-58629-22",
+    "b": "65-84000-07",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-41-00",
+    "assembly_id": "B737-29-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-039",
+    "fleet": "B737",
+    "a": "65-87182-11",
+    "b": "285-81874-23",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-11-00",
+    "assembly_id": "B737-32-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-040",
+    "fleet": "B737",
+    "a": "162-68138-03",
+    "b": "285-38183-14",
+    "type": "conditional",
+    "sb": "SB 32-2217",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "32-11-00",
+    "assembly_id": "B737-32-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-041",
+    "fleet": "B737",
+    "a": "162-16743-10",
+    "b": "69-54541-12",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-21-00",
+    "assembly_id": "B737-32-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-042",
+    "fleet": "B737",
+    "a": "285-90422-22",
+    "b": "60-22026-24",
+    "type": "conditional",
+    "sb": "SB 32-2217",
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "32-21-00",
+    "assembly_id": "B737-32-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-043",
+    "fleet": "B737",
+    "a": "285-17180-01",
+    "b": "162-85156-13",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-31-00",
+    "assembly_id": "B737-32-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-044",
+    "fleet": "B737",
+    "a": "65-43491-10",
+    "b": "69-32527-26",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "32-31-00",
+    "assembly_id": "B737-32-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-045",
+    "fleet": "B737",
+    "a": "65-40968-04",
+    "b": "285-19724-10",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-41-00",
+    "assembly_id": "B737-32-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-046",
+    "fleet": "B737",
+    "a": "285-30036-25",
+    "b": "69-20057-21",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-41-00",
+    "assembly_id": "B737-32-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-047",
+    "fleet": "B737",
+    "a": "162-30218-06",
+    "b": "162-58655-18",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-21-00",
+    "assembly_id": "B737-36-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-048",
+    "fleet": "B737",
+    "a": "65-67366-02",
+    "b": "69-68893-29",
+    "type": "conditional",
+    "sb": "SB 36-2217",
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "36-21-00",
+    "assembly_id": "B737-36-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-049",
+    "fleet": "B737",
+    "a": "65-68222-20",
+    "b": "162-55820-01",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "36-21-00",
+    "assembly_id": "B737-36-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-050",
+    "fleet": "B737",
+    "a": "69-71925-23",
+    "b": "60-78614-12",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-31-00",
+    "assembly_id": "B737-36-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-051",
+    "fleet": "B737",
+    "a": "60-92831-17",
+    "b": "60-55193-08",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-31-00",
+    "assembly_id": "B737-36-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-052",
+    "fleet": "B737",
+    "a": "162-92802-06",
+    "b": "69-96628-10",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "36-41-00",
+    "assembly_id": "B737-36-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-053",
+    "fleet": "B737",
+    "a": "69-67272-29",
+    "b": "285-67008-09",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "36-41-00",
+    "assembly_id": "B737-36-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-054",
+    "fleet": "B737",
+    "a": "162-54438-06",
+    "b": "69-77251-26",
+    "type": "conditional",
+    "sb": "SB 36-2217",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-41-00",
+    "assembly_id": "B737-36-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-055",
+    "fleet": "B737",
+    "a": "285-44959-26",
+    "b": "162-14561-05",
+    "type": "conditional",
+    "sb": "SB 36-2217",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-41-00",
+    "assembly_id": "B737-36-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-056",
+    "fleet": "B737",
+    "a": "285-25435-09",
+    "b": "69-62187-23",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "49-11-00",
+    "assembly_id": "B737-49-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-057",
+    "fleet": "B737",
+    "a": "69-30644-23",
+    "b": "60-68979-15",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "49-11-00",
+    "assembly_id": "B737-49-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-058",
+    "fleet": "B737",
+    "a": "60-36342-26",
+    "b": "285-33850-25",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "49-11-00",
+    "assembly_id": "B737-49-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-059",
+    "fleet": "B737",
+    "a": "65-55353-17",
+    "b": "162-48985-15",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B"
+    ],
+    "ata": "49-21-00",
+    "assembly_id": "B737-49-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-060",
+    "fleet": "B737",
+    "a": "285-45972-05",
+    "b": "162-36741-11",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "49-21-00",
+    "assembly_id": "B737-49-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-061",
+    "fleet": "B737",
+    "a": "65-36090-20",
+    "b": "69-53416-22",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B"
+    ],
+    "ata": "49-41-00",
+    "assembly_id": "B737-49-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-062",
+    "fleet": "B737",
+    "a": "285-59832-05",
+    "b": "69-47880-23",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "73-11-00",
+    "assembly_id": "B737-73-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-063",
+    "fleet": "B737",
+    "a": "285-54869-18",
+    "b": "285-59767-29",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "73-11-00",
+    "assembly_id": "B737-73-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-064",
+    "fleet": "B737",
+    "a": "65-10679-18",
+    "b": "60-62034-26",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "73-21-00",
+    "assembly_id": "B737-73-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-065",
+    "fleet": "B737",
+    "a": "285-78723-16",
+    "b": "162-50213-06",
+    "type": "conditional",
+    "sb": "SB 73-0388",
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "73-31-00",
+    "assembly_id": "B737-73-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-066",
+    "fleet": "B737",
+    "a": "60-62538-22",
+    "b": "65-69634-24",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "73-31-00",
+    "assembly_id": "B737-73-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-067",
+    "fleet": "B737",
+    "a": "65-42441-15",
+    "b": "285-38972-14",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "78-11-00",
+    "assembly_id": "B737-78-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-068",
+    "fleet": "B737",
+    "a": "60-14222-26",
+    "b": "65-92050-22",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "78-11-00",
+    "assembly_id": "B737-78-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-069",
+    "fleet": "B737",
+    "a": "60-41544-07",
+    "b": "162-78742-11",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "78-11-00",
+    "assembly_id": "B737-78-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-070",
+    "fleet": "B737",
+    "a": "162-67535-08",
+    "b": "285-72065-08",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "78-11-00",
+    "assembly_id": "B737-78-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-071",
+    "fleet": "B737",
+    "a": "285-51799-19",
+    "b": "60-83713-14",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "78-11-00",
+    "assembly_id": "B737-78-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-072",
+    "fleet": "B737",
+    "a": "162-41797-23",
+    "b": "69-82523-19",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "78-21-00",
+    "assembly_id": "B737-78-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-073",
+    "fleet": "B737",
+    "a": "65-82362-11",
+    "b": "65-59786-19",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "78-21-00",
+    "assembly_id": "B737-78-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-074",
+    "fleet": "B737",
+    "a": "162-34123-29",
+    "b": "69-56457-09",
+    "type": "conditional",
+    "sb": "SB 78-1042",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "78-31-00",
+    "assembly_id": "B737-78-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-075",
+    "fleet": "B737",
+    "a": "60-38668-17",
+    "b": "69-99658-27",
+    "type": "conditional",
+    "sb": "SB 78-1042",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "78-31-00",
+    "assembly_id": "B737-78-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-076",
+    "fleet": "B737",
+    "a": "69-12052-07",
+    "b": "65-19634-03",
+    "type": "conditional",
+    "sb": "SB 78-2217",
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "78-41-00",
+    "assembly_id": "B737-78-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-077",
+    "fleet": "B737",
+    "a": "162-52778-01",
+    "b": "69-68292-12",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "78-41-00",
+    "assembly_id": "B737-78-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-078",
+    "fleet": "B737",
+    "a": "69-82487-13",
+    "b": "162-83005-18",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "78-41-00",
+    "assembly_id": "B737-78-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-079",
+    "fleet": "B737",
+    "a": "60-61864-11",
+    "b": "65-72784-11",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "80-11-00",
+    "assembly_id": "B737-80-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-080",
+    "fleet": "B737",
+    "a": "69-96332-05",
+    "b": "162-53463-26",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "80-21-00",
+    "assembly_id": "B737-80-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-081",
+    "fleet": "B737",
+    "a": "285-72814-19",
+    "b": "285-77999-18",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "80-21-00",
+    "assembly_id": "B737-80-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-082",
+    "fleet": "B737",
+    "a": "60-25213-27",
+    "b": "65-57945-11",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B"
+    ],
+    "ata": "80-31-00",
+    "assembly_id": "B737-80-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-083",
+    "fleet": "B737",
+    "a": "162-37114-17",
+    "b": "162-79168-21",
+    "type": "conditional",
+    "sb": "SB 80-3109",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "80-31-00",
+    "assembly_id": "B737-80-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-084",
+    "fleet": "B737",
+    "a": "65-36972-09",
+    "b": "60-98094-05",
+    "type": "conditional",
+    "sb": "SB 80-1042",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "80-31-00",
+    "assembly_id": "B737-80-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-085",
+    "fleet": "B737",
+    "a": "69-69113-20",
+    "b": "69-81046-27",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "80-41-00",
+    "assembly_id": "B737-80-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-086",
+    "fleet": "B737",
+    "a": "162-74054-06",
+    "b": "65-49021-28",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "80-41-00",
+    "assembly_id": "B737-80-41-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-087",
+    "fleet": "B737",
+    "a": "65-48284-02",
+    "b": "162-25386-25",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "80-41-00",
+    "assembly_id": "B737-80-41-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-088",
+    "fleet": "A320",
+    "a": "D28996956500",
+    "b": "D27683161100",
+    "type": "conditional",
+    "sb": "SB 21-3109",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "21-11-00",
+    "assembly_id": "A320-21-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-089",
+    "fleet": "A320",
+    "a": "D24819060200",
+    "b": "D27130135600",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "21-21-00",
+    "assembly_id": "A320-21-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-090",
+    "fleet": "A320",
+    "a": "D23203499200",
+    "b": "D24016771100",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "21-21-00",
+    "assembly_id": "A320-21-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-091",
+    "fleet": "A320",
+    "a": "D27378801200",
+    "b": "D23137911700",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-21-00",
+    "assembly_id": "A320-21-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-092",
+    "fleet": "A320",
+    "a": "D22987619900",
+    "b": "D25959905300",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "21-31-00",
+    "assembly_id": "A320-21-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-093",
+    "fleet": "A320",
+    "a": "D24173076400",
+    "b": "D24753947800",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "24-11-00",
+    "assembly_id": "A320-24-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-094",
+    "fleet": "A320",
+    "a": "D28473121900",
+    "b": "D27355750100",
+    "type": "conditional",
+    "sb": "SB 24-3109",
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "24-11-00",
+    "assembly_id": "A320-24-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-095",
+    "fleet": "A320",
+    "a": "D20581326300",
+    "b": "D20552302200",
+    "type": "conditional",
+    "sb": "SB 24-1042",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-21-00",
+    "assembly_id": "A320-24-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-096",
+    "fleet": "A320",
+    "a": "D22675089800",
+    "b": "D22960209900",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-21-00",
+    "assembly_id": "A320-24-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-097",
+    "fleet": "A320",
+    "a": "D21209362900",
+    "b": "D23868392500",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "24-21-00",
+    "assembly_id": "A320-24-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-098",
+    "fleet": "A320",
+    "a": "D24015831900",
+    "b": "D25173269800",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-21-00",
+    "assembly_id": "A320-24-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-099",
+    "fleet": "A320",
+    "a": "D29583439100",
+    "b": "D22443156900",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "24-21-00",
+    "assembly_id": "A320-24-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-100",
+    "fleet": "A320",
+    "a": "D20628041800",
+    "b": "D28178239800",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "24-31-00",
+    "assembly_id": "A320-24-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-101",
+    "fleet": "A320",
+    "a": "D22427166600",
+    "b": "D24886944000",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-31-00",
+    "assembly_id": "A320-24-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-102",
+    "fleet": "A320",
+    "a": "D20653085500",
+    "b": "D22778801500",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "24-31-00",
+    "assembly_id": "A320-24-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-103",
+    "fleet": "A320",
+    "a": "D20993265900",
+    "b": "D21812014500",
+    "type": "conditional",
+    "sb": "SB 27-2217",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "27-11-00",
+    "assembly_id": "A320-27-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-104",
+    "fleet": "A320",
+    "a": "D20646649900",
+    "b": "D26439377900",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "27-11-00",
+    "assembly_id": "A320-27-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-105",
+    "fleet": "A320",
+    "a": "D20530972100",
+    "b": "D24395992500",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "27-11-00",
+    "assembly_id": "A320-27-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-106",
+    "fleet": "A320",
+    "a": "D24945966700",
+    "b": "D22294370200",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "27-21-00",
+    "assembly_id": "A320-27-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-107",
+    "fleet": "A320",
+    "a": "D21673781200",
+    "b": "D22112501600",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "27-21-00",
+    "assembly_id": "A320-27-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-108",
+    "fleet": "A320",
+    "a": "D27345914500",
+    "b": "D29617791800",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "27-21-00",
+    "assembly_id": "A320-27-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-109",
+    "fleet": "A320",
+    "a": "D21091676300",
+    "b": "D27268470800",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "27-31-00",
+    "assembly_id": "A320-27-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-110",
+    "fleet": "A320",
+    "a": "D23936962000",
+    "b": "D24119877300",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "A320-29-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-111",
+    "fleet": "A320",
+    "a": "D20976274300",
+    "b": "D24483771100",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "A320-29-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-112",
+    "fleet": "A320",
+    "a": "D27387260300",
+    "b": "D21791308100",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "A320-29-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-113",
+    "fleet": "A320",
+    "a": "D22155352400",
+    "b": "D24938216200",
+    "type": "conditional",
+    "sb": "SB 29-0388",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-11-00",
+    "assembly_id": "A320-29-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-114",
+    "fleet": "A320",
+    "a": "D25419227300",
+    "b": "D20912544900",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "29-21-00",
+    "assembly_id": "A320-29-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-115",
+    "fleet": "A320",
+    "a": "D26164937400",
+    "b": "D28116304100",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "29-31-00",
+    "assembly_id": "A320-29-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-116",
+    "fleet": "A320",
+    "a": "D22769674900",
+    "b": "D29578035200",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "29-31-00",
+    "assembly_id": "A320-29-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-117",
+    "fleet": "A320",
+    "a": "D28322043800",
+    "b": "D25314135100",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "29-31-00",
+    "assembly_id": "A320-29-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-118",
+    "fleet": "A320",
+    "a": "D28999248900",
+    "b": "D22104770700",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B"
+    ],
+    "ata": "29-31-00",
+    "assembly_id": "A320-29-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-119",
+    "fleet": "A320",
+    "a": "D27142630300",
+    "b": "D29888123900",
+    "type": "conditional",
+    "sb": "SB 32-0388",
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "32-11-00",
+    "assembly_id": "A320-32-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-120",
+    "fleet": "A320",
+    "a": "D28952967300",
+    "b": "D25459287900",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-11-00",
+    "assembly_id": "A320-32-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-121",
+    "fleet": "A320",
+    "a": "D27106142600",
+    "b": "D28842474700",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "32-11-00",
+    "assembly_id": "A320-32-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-122",
+    "fleet": "A320",
+    "a": "D20210269900",
+    "b": "D20669384300",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-11-00",
+    "assembly_id": "A320-32-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-123",
+    "fleet": "A320",
+    "a": "D23099633300",
+    "b": "D23519368300",
+    "type": "conditional",
+    "sb": "SB 32-2217",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-21-00",
+    "assembly_id": "A320-32-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-124",
+    "fleet": "A320",
+    "a": "D20370347400",
+    "b": "D28263724200",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "A"
+    ],
+    "ata": "32-21-00",
+    "assembly_id": "A320-32-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-125",
+    "fleet": "A320",
+    "a": "D21782438400",
+    "b": "D26652137400",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-21-00",
+    "assembly_id": "A320-32-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-126",
+    "fleet": "A320",
+    "a": "D21891179900",
+    "b": "D23912250100",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "32-31-00",
+    "assembly_id": "A320-32-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-127",
+    "fleet": "A320",
+    "a": "D21854134000",
+    "b": "D27692383100",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "32-31-00",
+    "assembly_id": "A320-32-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-128",
+    "fleet": "A320",
+    "a": "D25133589700",
+    "b": "D23209842100",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "32-31-00",
+    "assembly_id": "A320-32-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-129",
+    "fleet": "A320",
+    "a": "D26642595400",
+    "b": "D27631876600",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "32-31-00",
+    "assembly_id": "A320-32-31-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-130",
+    "fleet": "A320",
+    "a": "D21375792700",
+    "b": "D26530507700",
+    "type": "supersede",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "36-11-00",
+    "assembly_id": "A320-36-11-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-131",
+    "fleet": "A320",
+    "a": "D21295987000",
+    "b": "D25219172500",
+    "type": "conditional",
+    "sb": "SB 36-2217",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-11-00",
+    "assembly_id": "A320-36-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-132",
+    "fleet": "A320",
+    "a": "D29955661100",
+    "b": "D26786362100",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-21-00",
+    "assembly_id": "A320-36-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-133",
+    "fleet": "A320",
+    "a": "D21831880500",
+    "b": "D23907224300",
+    "type": "conditional",
+    "sb": "SB 36-1042",
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "36-21-00",
+    "assembly_id": "A320-36-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-134",
+    "fleet": "A320",
+    "a": "D27023824300",
+    "b": "D20572160100",
+    "type": "variant_limited",
+    "sb": null,
+    "valid_variants": [
+      "B",
+      "C"
+    ],
+    "ata": "36-31-00",
+    "assembly_id": "A320-36-31-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-135",
+    "fleet": "A320",
+    "a": "D28302447700",
+    "b": "D20023034300",
+    "type": "conditional",
+    "sb": "SB 73-0388",
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "73-11-00",
+    "assembly_id": "A320-73-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-136",
+    "fleet": "A320",
+    "a": "D29965194300",
+    "b": "D21472719100",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "73-11-00",
+    "assembly_id": "A320-73-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-137",
+    "fleet": "A320",
+    "a": "D28853315800",
+    "b": "D21966531500",
+    "type": "conditional",
+    "sb": "SB 73-2217",
+    "valid_variants": [
+      "A",
+      "B"
+    ],
+    "ata": "73-11-00",
+    "assembly_id": "A320-73-11-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-138",
+    "fleet": "A320",
+    "a": "D25286891700",
+    "b": "D29294969500",
+    "type": "conditional",
+    "sb": "SB 73-0388",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "73-21-00",
+    "assembly_id": "A320-73-21-00",
+    "phrase_idx": 1
+  },
+  {
+    "id": "IC-139",
+    "fleet": "A320",
+    "a": "D26356054100",
+    "b": "D23046948700",
+    "type": "conditional",
+    "sb": "SB 73-2217",
+    "valid_variants": [
+      "C"
+    ],
+    "ata": "73-21-00",
+    "assembly_id": "A320-73-21-00",
+    "phrase_idx": 0
+  },
+  {
+    "id": "IC-140",
+    "fleet": "A320",
+    "a": "D24745791300",
+    "b": "D26507069900",
+    "type": "two_way",
+    "sb": null,
+    "valid_variants": [
+      "A",
+      "B",
+      "C"
+    ],
+    "ata": "73-31-00",
+    "assembly_id": "A320-73-31-00",
+    "phrase_idx": 0
+  }
+]

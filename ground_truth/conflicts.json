@@ -1,0 +1,32 @@
+[
+  {
+    "record_id": "IC-066",
+    "a": "60-62538-22",
+    "b": "65-69634-24",
+    "ipc_type": "variant_limited",
+    "cmm_doc": "CMM_KESTREL_01_60-62538-22.html",
+    "ipc_doc": "IPC_B737_ATA73_REV15.html",
+    "cmm_statement": "Part number 65-69634-24 is fully interchangeable with part number 60-62538-22 with no restrictions.",
+    "ipc_statement": "INTERCHANGEABLE WITH 60-62538-22 - 737-700 ONLY."
+  },
+  {
+    "record_id": "IC-058",
+    "a": "60-36342-26",
+    "b": "285-33850-25",
+    "ipc_type": "variant_limited",
+    "cmm_doc": "CMM_KESTREL_03_60-36342-26.html",
+    "ipc_doc": "IPC_B737_ATA49_REV15.html",
+    "cmm_statement": "Part number 285-33850-25 is fully interchangeable with part number 60-36342-26 with no restrictions.",
+    "ipc_statement": "INTERCHANGEABLE WITH 60-36342-26 - 737-800, 737-MAX8 ONLY."
+  },
+  {
+    "record_id": "IC-065",
+    "a": "285-78723-16",
+    "b": "162-50213-06",
+    "ipc_type": "conditional",
+    "cmm_doc": "CMM_PELICAN_05_285-78723-16.html",
+    "ipc_doc": "IPC_B737_ATA73_REV15.html",
+    "cmm_statement": "Part number 162-50213-06 is fully interchangeable with part number 285-78723-16 with no restrictions.",
+    "ipc_statement": "ALTERNATE FOR 285-78723-16 AFTER INCORPORATION OF SB 73-0388."
+  }
+]

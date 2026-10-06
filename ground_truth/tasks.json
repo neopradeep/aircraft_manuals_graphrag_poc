@@ -1,0 +1,542 @@
+[
+  {
+    "task_id": "TASK 21-11-00-400-801",
+    "doc": "AMM_B737_ATA21_21-11-00.html",
+    "assembly_id": "B737-21-11-00",
+    "title": "AIR CONDITIONING PACK - Removal/Installation",
+    "ata": "21-11-00",
+    "fleet": "B737",
+    "main_part": "60-87397-14",
+    "parts": [
+      "60-87397-14",
+      "60-30926-23",
+      "60-59615-03",
+      "65-76237-20"
+    ]
+  },
+  {
+    "task_id": "TASK 21-21-00-400-801",
+    "doc": "AMM_B737_ATA21_21-21-00.html",
+    "assembly_id": "B737-21-21-00",
+    "title": "PACK TEMPERATURE CONTROL - Removal/Installation",
+    "ata": "21-21-00",
+    "fleet": "B737",
+    "main_part": "162-61856-29",
+    "parts": [
+      "162-61856-29",
+      "285-62350-12",
+      "162-79352-09",
+      "65-83579-18"
+    ]
+  },
+  {
+    "task_id": "TASK 21-31-00-400-801",
+    "doc": "AMM_B737_ATA21_21-31-00.html",
+    "assembly_id": "B737-21-31-00",
+    "title": "RECIRCULATION FAN - Removal/Installation",
+    "ata": "21-31-00",
+    "fleet": "B737",
+    "main_part": "60-79822-25",
+    "parts": [
+      "60-79822-25",
+      "65-18392-11",
+      "69-67422-29",
+      "285-38864-01"
+    ]
+  },
+  {
+    "task_id": "TASK 21-41-00-400-801",
+    "doc": "AMM_B737_ATA21_21-41-00.html",
+    "assembly_id": "B737-21-41-00",
+    "title": "CABIN PRESSURE OUTFLOW VALVE - Removal/Installation",
+    "ata": "21-41-00",
+    "fleet": "B737",
+    "main_part": "162-17685-06",
+    "parts": [
+      "162-17685-06",
+      "60-16572-19",
+      "285-96752-23",
+      "65-31798-14"
+    ]
+  },
+  {
+    "task_id": "TASK 24-11-00-400-801",
+    "doc": "AMM_B737_ATA24_24-11-00.html",
+    "assembly_id": "B737-24-11-00",
+    "title": "GENERATOR DRIVE - Removal/Installation",
+    "ata": "24-11-00",
+    "fleet": "B737",
+    "main_part": "65-55745-29",
+    "parts": [
+      "65-55745-29",
+      "60-22097-21",
+      "285-11025-22",
+      "65-67433-27"
+    ]
+  },
+  {
+    "task_id": "TASK 24-21-00-400-801",
+    "doc": "AMM_B737_ATA24_24-21-00.html",
+    "assembly_id": "B737-24-21-00",
+    "title": "GENERATOR CONTROL UNIT - Removal/Installation",
+    "ata": "24-21-00",
+    "fleet": "B737",
+    "main_part": "65-53540-26",
+    "parts": [
+      "65-53540-26",
+      "65-39219-01",
+      "285-53404-01",
+      "65-44970-06"
+    ]
+  },
+  {
+    "task_id": "TASK 27-21-00-400-801",
+    "doc": "AMM_B737_ATA27_27-21-00.html",
+    "assembly_id": "B737-27-21-00",
+    "title": "ELEVATOR FEEL COMPUTER - Removal/Installation",
+    "ata": "27-21-00",
+    "fleet": "B737",
+    "main_part": "162-23833-14",
+    "parts": [
+      "162-23833-14",
+      "65-56507-26",
+      "162-30052-14",
+      "60-41635-24"
+    ]
+  },
+  {
+    "task_id": "TASK 27-31-00-400-801",
+    "doc": "AMM_B737_ATA27_27-31-00.html",
+    "assembly_id": "B737-27-31-00",
+    "title": "FLAP DRIVE UNIT - Removal/Installation",
+    "ata": "27-31-00",
+    "fleet": "B737",
+    "main_part": "69-15965-02",
+    "parts": [
+      "69-15965-02",
+      "285-88222-10",
+      "162-74454-03",
+      "285-47268-16"
+    ]
+  },
+  {
+    "task_id": "TASK 27-41-00-400-801",
+    "doc": "AMM_B737_ATA27_27-41-00.html",
+    "assembly_id": "B737-27-41-00",
+    "title": "SPOILER ACTUATOR - Removal/Installation",
+    "ata": "27-41-00",
+    "fleet": "B737",
+    "main_part": "60-63545-15",
+    "parts": [
+      "60-63545-15",
+      "65-65723-04",
+      "69-28643-03",
+      "285-84607-10"
+    ]
+  },
+  {
+    "task_id": "TASK 29-11-00-400-801",
+    "doc": "AMM_B737_ATA29_29-11-00.html",
+    "assembly_id": "B737-29-11-00",
+    "title": "ENGINE DRIVEN HYDRAULIC PUMP - Removal/Installation",
+    "ata": "29-11-00",
+    "fleet": "B737",
+    "main_part": "162-21542-11",
+    "parts": [
+      "162-21542-11",
+      "162-64165-02",
+      "162-91973-15",
+      "69-76698-23"
+    ]
+  },
+  {
+    "task_id": "TASK 29-41-00-400-801",
+    "doc": "AMM_B737_ATA29_29-41-00.html",
+    "assembly_id": "B737-29-41-00",
+    "title": "HYDRAULIC FILTER MODULE - Removal/Installation",
+    "ata": "29-41-00",
+    "fleet": "B737",
+    "main_part": "162-13280-20",
+    "parts": [
+      "162-13280-20",
+      "162-25292-05",
+      "65-94889-03",
+      "162-58629-22"
+    ]
+  },
+  {
+    "task_id": "TASK 32-11-00-400-801",
+    "doc": "AMM_B737_ATA32_32-11-00.html",
+    "assembly_id": "B737-32-11-00",
+    "title": "MAIN GEAR SHOCK STRUT - Removal/Installation",
+    "ata": "32-11-00",
+    "fleet": "B737",
+    "main_part": "65-24408-22",
+    "parts": [
+      "65-24408-22",
+      "60-17972-16",
+      "65-87182-11",
+      "162-68138-03"
+    ]
+  },
+  {
+    "task_id": "TASK 32-31-00-400-801",
+    "doc": "AMM_B737_ATA32_32-31-00.html",
+    "assembly_id": "B737-32-31-00",
+    "title": "BRAKE ASSEMBLY - Removal/Installation",
+    "ata": "32-31-00",
+    "fleet": "B737",
+    "main_part": "162-73656-20",
+    "parts": [
+      "162-73656-20",
+      "162-33028-05",
+      "65-43491-10",
+      "285-83233-27"
+    ]
+  },
+  {
+    "task_id": "TASK 32-41-00-400-801",
+    "doc": "AMM_B737_ATA32_32-41-00.html",
+    "assembly_id": "B737-32-41-00",
+    "title": "WHEEL AND TIRE ASSEMBLY - Removal/Installation",
+    "ata": "32-41-00",
+    "fleet": "B737",
+    "main_part": "60-79547-17",
+    "parts": [
+      "60-79547-17",
+      "69-54500-08",
+      "285-30036-25",
+      "162-70811-25"
+    ]
+  },
+  {
+    "task_id": "TASK 36-31-00-400-801",
+    "doc": "AMM_B737_ATA36_36-31-00.html",
+    "assembly_id": "B737-36-31-00",
+    "title": "BLEED DUCT COUPLING - Removal/Installation",
+    "ata": "36-31-00",
+    "fleet": "B737",
+    "main_part": "69-71925-23",
+    "parts": [
+      "69-71925-23",
+      "60-92831-17",
+      "69-41147-10",
+      "285-10688-29"
+    ]
+  },
+  {
+    "task_id": "TASK 49-21-00-400-801",
+    "doc": "AMM_B737_ATA49_49-21-00.html",
+    "assembly_id": "B737-49-21-00",
+    "title": "APU STARTER - Removal/Installation",
+    "ata": "49-21-00",
+    "fleet": "B737",
+    "main_part": "65-55353-17",
+    "parts": [
+      "65-55353-17",
+      "285-64602-20",
+      "60-20646-02",
+      "285-47967-21"
+    ]
+  },
+  {
+    "task_id": "TASK 49-31-00-400-801",
+    "doc": "AMM_B737_ATA49_49-31-00.html",
+    "assembly_id": "B737-49-31-00",
+    "title": "APU INLET DOOR ACTUATOR - Removal/Installation",
+    "ata": "49-31-00",
+    "fleet": "B737",
+    "main_part": "162-42495-05",
+    "parts": [
+      "162-42495-05",
+      "162-47453-18",
+      "285-50988-07",
+      "162-75373-29"
+    ]
+  },
+  {
+    "task_id": "TASK 49-41-00-400-801",
+    "doc": "AMM_B737_ATA49_49-41-00.html",
+    "assembly_id": "B737-49-41-00",
+    "title": "APU OIL COOLER - Removal/Installation",
+    "ata": "49-41-00",
+    "fleet": "B737",
+    "main_part": "69-91689-22",
+    "parts": [
+      "69-91689-22",
+      "60-61629-12",
+      "65-36090-20",
+      "69-87820-11"
+    ]
+  },
+  {
+    "task_id": "TASK 73-21-00-400-801",
+    "doc": "AMM_B737_ATA73_73-21-00.html",
+    "assembly_id": "B737-73-21-00",
+    "title": "HYDROMECHANICAL UNIT - Removal/Installation",
+    "ata": "73-21-00",
+    "fleet": "B737",
+    "main_part": "69-27992-04",
+    "parts": [
+      "69-27992-04",
+      "60-21725-21",
+      "65-16653-22",
+      "65-10679-18"
+    ]
+  },
+  {
+    "task_id": "TASK 73-41-00-400-801",
+    "doc": "AMM_B737_ATA73_73-41-00.html",
+    "assembly_id": "B737-73-41-00",
+    "title": "ENGINE FUEL HEATER - Removal/Installation",
+    "ata": "73-41-00",
+    "fleet": "B737",
+    "main_part": "162-27294-17",
+    "parts": [
+      "162-27294-17",
+      "60-71875-02",
+      "162-55158-23",
+      "285-76255-07"
+    ]
+  },
+  {
+    "task_id": "TASK 78-21-00-400-801",
+    "doc": "AMM_B737_ATA78_78-21-00.html",
+    "assembly_id": "B737-78-21-00",
+    "title": "THRUST REVERSER SLEEVE - Removal/Installation",
+    "ata": "78-21-00",
+    "fleet": "B737",
+    "main_part": "60-37762-07",
+    "parts": [
+      "60-37762-07",
+      "162-41797-23",
+      "69-50425-09",
+      "65-72835-07"
+    ]
+  },
+  {
+    "task_id": "TASK 78-31-00-400-801",
+    "doc": "AMM_B737_ATA78_78-31-00.html",
+    "assembly_id": "B737-78-31-00",
+    "title": "EXHAUST NOZZLE - Removal/Installation",
+    "ata": "78-31-00",
+    "fleet": "B737",
+    "main_part": "60-64053-05",
+    "parts": [
+      "60-64053-05",
+      "162-34123-29",
+      "65-24026-04",
+      "285-14433-27"
+    ]
+  },
+  {
+    "task_id": "TASK 80-31-00-400-801",
+    "doc": "AMM_B737_ATA80_80-31-00.html",
+    "assembly_id": "B737-80-31-00",
+    "title": "START CONTROL RELAY - Removal/Installation",
+    "ata": "80-31-00",
+    "fleet": "B737",
+    "main_part": "60-12960-28",
+    "parts": [
+      "60-12960-28",
+      "285-65885-15",
+      "65-41970-17",
+      "285-35863-15"
+    ]
+  },
+  {
+    "task_id": "TASK 80-41-00-400-801",
+    "doc": "AMM_B737_ATA80_80-41-00.html",
+    "assembly_id": "B737-80-41-00",
+    "title": "STARTER DUCT - Removal/Installation",
+    "ata": "80-41-00",
+    "fleet": "B737",
+    "main_part": "162-65448-06",
+    "parts": [
+      "162-65448-06",
+      "162-63626-22",
+      "65-69942-19",
+      "162-27895-07"
+    ]
+  },
+  {
+    "task_id": "TASK 21-11-00-400-801",
+    "doc": "AMM_A320_ATA21_21-11-00.html",
+    "assembly_id": "A320-21-11-00",
+    "title": "PACK FLOW CONTROL VALVE - Removal/Installation",
+    "ata": "21-11-00",
+    "fleet": "A320",
+    "main_part": "D25581363500",
+    "parts": [
+      "D25581363500",
+      "D28996956500",
+      "D23377423100",
+      "D27382533700"
+    ]
+  },
+  {
+    "task_id": "TASK 27-11-00-400-801",
+    "doc": "AMM_A320_ATA27_27-11-00.html",
+    "assembly_id": "A320-27-11-00",
+    "title": "SLAT DRIVE UNIT - Removal/Installation",
+    "ata": "27-11-00",
+    "fleet": "A320",
+    "main_part": "D24240355700",
+    "parts": [
+      "D24240355700",
+      "D20993265900",
+      "D20646649900",
+      "D26773665600"
+    ]
+  },
+  {
+    "task_id": "TASK 27-21-00-400-801",
+    "doc": "AMM_A320_ATA27_27-21-00.html",
+    "assembly_id": "A320-27-21-00",
+    "title": "ELEVATOR SERVO ACTUATOR - Removal/Installation",
+    "ata": "27-21-00",
+    "fleet": "A320",
+    "main_part": "D22296590300",
+    "parts": [
+      "D22296590300",
+      "D24945966700",
+      "D21673781200",
+      "D25596149400"
+    ]
+  },
+  {
+    "task_id": "TASK 27-31-00-400-801",
+    "doc": "AMM_A320_ATA27_27-31-00.html",
+    "assembly_id": "A320-27-31-00",
+    "title": "SPOILER SERVO ACTUATOR - Removal/Installation",
+    "ata": "27-31-00",
+    "fleet": "A320",
+    "main_part": "D27415357100",
+    "parts": [
+      "D27415357100",
+      "D22495564400",
+      "D21091676300",
+      "D27679265500"
+    ]
+  },
+  {
+    "task_id": "TASK 29-11-00-400-801",
+    "doc": "AMM_A320_ATA29_29-11-00.html",
+    "assembly_id": "A320-29-11-00",
+    "title": "GREEN SYSTEM ENGINE PUMP - Removal/Installation",
+    "ata": "29-11-00",
+    "fleet": "A320",
+    "main_part": "D23935801200",
+    "parts": [
+      "D23935801200",
+      "D23936962000",
+      "D28868460400",
+      "D27387260300"
+    ]
+  },
+  {
+    "task_id": "TASK 29-21-00-400-801",
+    "doc": "AMM_A320_ATA29_29-21-00.html",
+    "assembly_id": "A320-29-21-00",
+    "title": "YELLOW SYSTEM ELECTRIC PUMP - Removal/Installation",
+    "ata": "29-21-00",
+    "fleet": "A320",
+    "main_part": "D21584719600",
+    "parts": [
+      "D21584719600",
+      "D20827905000",
+      "D25419227300",
+      "D28474386900"
+    ]
+  },
+  {
+    "task_id": "TASK 29-31-00-400-801",
+    "doc": "AMM_A320_ATA29_29-31-00.html",
+    "assembly_id": "A320-29-31-00",
+    "title": "HYDRAULIC FIREWALL SHUTOFF VALVE - Removal/Installation",
+    "ata": "29-31-00",
+    "fleet": "A320",
+    "main_part": "D21058963600",
+    "parts": [
+      "D21058963600",
+      "D29655653400",
+      "D26164937400",
+      "D29216534200"
+    ]
+  },
+  {
+    "task_id": "TASK 32-21-00-400-801",
+    "doc": "AMM_A320_ATA32_32-21-00.html",
+    "assembly_id": "A320-32-21-00",
+    "title": "NOSE WHEEL STEERING SERVO - Removal/Installation",
+    "ata": "32-21-00",
+    "fleet": "A320",
+    "main_part": "D28989607600",
+    "parts": [
+      "D28989607600",
+      "D21467269200",
+      "D24936491600",
+      "D29505618500"
+    ]
+  },
+  {
+    "task_id": "TASK 36-11-00-400-801",
+    "doc": "AMM_A320_ATA36_36-11-00.html",
+    "assembly_id": "A320-36-11-00",
+    "title": "ENGINE BLEED VALVE - Removal/Installation",
+    "ata": "36-11-00",
+    "fleet": "A320",
+    "main_part": "D21291444600",
+    "parts": [
+      "D21291444600",
+      "D24229860200",
+      "D22682149800",
+      "D21375792700"
+    ]
+  },
+  {
+    "task_id": "TASK 73-11-00-400-801",
+    "doc": "AMM_A320_ATA73_73-11-00.html",
+    "assembly_id": "A320-73-11-00",
+    "title": "FUEL METERING UNIT - Removal/Installation",
+    "ata": "73-11-00",
+    "fleet": "A320",
+    "main_part": "D25215339500",
+    "parts": [
+      "D25215339500",
+      "D29965194300",
+      "D25330307100",
+      "D28302447700"
+    ]
+  },
+  {
+    "task_id": "TASK 73-21-00-400-801",
+    "doc": "AMM_A320_ATA73_73-21-00.html",
+    "assembly_id": "A320-73-21-00",
+    "title": "FUEL FILTER HOUSING - Removal/Installation",
+    "ata": "73-21-00",
+    "fleet": "A320",
+    "main_part": "D25286891700",
+    "parts": [
+      "D25286891700",
+      "D25330259900",
+      "D23595133700",
+      "D27659791600"
+    ]
+  },
+  {
+    "task_id": "TASK 73-31-00-400-801",
+    "doc": "AMM_A320_ATA73_73-31-00.html",
+    "assembly_id": "A320-73-31-00",
+    "title": "FUEL INJECTOR MANIFOLD - Removal/Installation",
+    "ata": "73-31-00",
+    "fleet": "A320",
+    "main_part": "D21116420300",
+    "parts": [
+      "D21116420300",
+      "D27165863200",
+      "D28224058900",
+      "D29068522800"
+    ]
+  }
+]

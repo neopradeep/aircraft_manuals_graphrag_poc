@@ -1,0 +1,30 @@
+[
+  {
+    "record_id": "IC-029",
+    "rev14_statement": "ALTERNATE FOR 65-47752-15. PARTS ARE INTERCHANGEABLE.",
+    "rev15_statement": "ALTERNATE FOR 65-47752-15 AFTER INCORPORATION OF SB 29-0388.",
+    "doc14": "IPC_B737_ATA29_REV14.html",
+    "doc15": "IPC_B737_ATA29_REV15.html"
+  },
+  {
+    "record_id": "IC-038",
+    "rev14_statement": "ALTERNATE FOR 162-58629-22. PARTS ARE INTERCHANGEABLE.",
+    "rev15_statement": "SUPERSEDES 162-58629-22. 162-58629-22 IS NOT INTERCHANGEABLE WITH THIS PART (ONE-WAY).",
+    "doc14": "IPC_B737_ATA29_REV14.html",
+    "doc15": "IPC_B737_ATA29_REV15.html"
+  },
+  {
+    "record_id": "IC-042",
+    "rev14_statement": "INTERCHANGEABLE WITH 285-90422-22 (TWO-WAY).",
+    "rev15_statement": "INTERCHANGEABLE WITH 285-90422-22 WHEN SB 32-2217 IS EMBODIED.",
+    "doc14": "IPC_B737_ATA32_REV14.html",
+    "doc15": "IPC_B737_ATA32_REV15.html"
+  },
+  {
+    "record_id": "IC-046",
+    "rev14_statement": "INTERCHANGEABLE WITH 285-30036-25 (TWO-WAY).",
+    "rev15_statement": "REPLACES 285-30036-25. THIS PART MAY REPLACE 285-30036-25; 285-30036-25 MAY NOT BE USED TO REPLACE THIS PART.",
+    "doc14": "IPC_B737_ATA32_REV14.html",
+    "doc15": "IPC_B737_ATA32_REV15.html"
+  }
+]

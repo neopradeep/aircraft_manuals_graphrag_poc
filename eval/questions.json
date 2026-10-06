@@ -1,0 +1,746 @@
+[
+  {
+    "id": "Q001",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-700 needs part 60-38668-17 and none is in stock. Can part 69-99658-27 be installed instead?",
+    "expected_answer": "No - on the 737-700 both parts must be effective; 69-99658-27 is not effective on this variant.",
+    "expected_sources": [
+      "IPC_B737_ATA78_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-075"
+  },
+  {
+    "id": "Q002",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-MAX8 needs part 285-42850-22 and none is in stock. Can part 60-71385-03 be installed instead?",
+    "expected_answer": "Yes - 60-71385-03 is interchangeable with 285-42850-22 (two-way).",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "verdict": "yes",
+    "record_id": "IC-035"
+  },
+  {
+    "id": "Q003",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A320neo needs part D29888123900 and none is in stock. Can part D27142630300 be installed instead?",
+    "expected_answer": "Yes, but only after SB 32-0388 is embodied.",
+    "expected_sources": [
+      "IPC_A320_ATA32_REV15.html"
+    ],
+    "verdict": "conditional",
+    "record_id": "IC-119"
+  },
+  {
+    "id": "Q004",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A320ceo needs part D26642595400 and none is in stock. Can part D27631876600 be installed instead?",
+    "expected_answer": "No - on the A320ceo both parts must be effective; D27631876600 is not effective on this variant.",
+    "expected_sources": [
+      "IPC_A320_ATA32_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-129"
+  },
+  {
+    "id": "Q005",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A320ceo needs part D25219172500 and none is in stock. Can part D21295987000 be installed instead?",
+    "expected_answer": "Yes, but only after SB 36-2217 is embodied.",
+    "expected_sources": [
+      "IPC_A320_ATA36_REV15.html"
+    ],
+    "verdict": "conditional",
+    "record_id": "IC-131"
+  },
+  {
+    "id": "Q006",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-800 needs part 285-88222-10 and none is in stock. Can part 69-21164-08 be installed instead?",
+    "expected_answer": "No - on the 737-800 both parts must be effective; 69-21164-08 is not effective on this variant.",
+    "expected_sources": [
+      "IPC_B737_ATA27_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-024"
+  },
+  {
+    "id": "Q007",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A320ceo needs part D22778801500 and none is in stock. Can part D20653085500 be installed instead?",
+    "expected_answer": "No - D20653085500 is superseded by D22778801500; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_A320_ATA24_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-102"
+  },
+  {
+    "id": "Q008",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A321neo needs part D28473121900 and none is in stock. Can part D27355750100 be installed instead?",
+    "expected_answer": "Yes, but only after SB 24-3109 is embodied.",
+    "expected_sources": [
+      "IPC_A320_ATA24_REV15.html"
+    ],
+    "verdict": "conditional",
+    "record_id": "IC-094"
+  },
+  {
+    "id": "Q009",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-MAX8 needs part 285-62350-12 and none is in stock. Can part 60-44522-17 be installed instead?",
+    "expected_answer": "Yes - 60-44522-17 is interchangeable with 285-62350-12 (two-way).",
+    "expected_sources": [
+      "IPC_B737_ATA21_REV15.html"
+    ],
+    "verdict": "yes",
+    "record_id": "IC-003"
+  },
+  {
+    "id": "Q010",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-800 needs part 69-47880-23 and none is in stock. Can part 285-59832-05 be installed instead?",
+    "expected_answer": "Yes - 285-59832-05 is interchangeable with 69-47880-23 (two-way).",
+    "expected_sources": [
+      "IPC_B737_ATA73_REV15.html"
+    ],
+    "verdict": "yes",
+    "record_id": "IC-062"
+  },
+  {
+    "id": "Q011",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-800 needs part 162-85156-13 and none is in stock. Can part 285-17180-01 be installed instead?",
+    "expected_answer": "No - 285-17180-01 is superseded by 162-85156-13; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_B737_ATA32_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-043"
+  },
+  {
+    "id": "Q012",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A320ceo needs part D29955661100 and none is in stock. Can part D26786362100 be installed instead?",
+    "expected_answer": "Yes - D26786362100 is interchangeable with D29955661100 (two-way).",
+    "expected_sources": [
+      "IPC_A320_ATA36_REV15.html"
+    ],
+    "verdict": "yes",
+    "record_id": "IC-132"
+  },
+  {
+    "id": "Q013",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The 737-700 needs part 285-94518-12 and none is in stock. Can part 162-25292-05 be installed instead?",
+    "expected_answer": "Yes, but only after SB 29-3109 is embodied.",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "verdict": "conditional",
+    "record_id": "IC-036"
+  },
+  {
+    "id": "Q014",
+    "category": "interchangeability",
+    "difficulty": "medium",
+    "question": "The A321neo needs part D28116304100 and none is in stock. Can part D26164937400 be installed instead?",
+    "expected_answer": "No - on the A321neo both parts must be effective; D28116304100 is not effective on this variant.",
+    "expected_sources": [
+      "IPC_A320_ATA29_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-115"
+  },
+  {
+    "id": "Q015",
+    "category": "one_way_supersession",
+    "difficulty": "hard",
+    "question": "Part 285-30036-25 is on the shelf. Can it be used to replace part 69-20057-21 on a 737-MAX8?",
+    "expected_answer": "No - 285-30036-25 is superseded by 69-20057-21; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_B737_ATA32_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-046"
+  },
+  {
+    "id": "Q016",
+    "category": "one_way_supersession",
+    "difficulty": "hard",
+    "question": "Part D28952967300 is on the shelf. Can it be used to replace part D25459287900 on a A321neo?",
+    "expected_answer": "No - D28952967300 is superseded by D25459287900; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_A320_ATA32_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-120"
+  },
+  {
+    "id": "Q017",
+    "category": "one_way_supersession",
+    "difficulty": "hard",
+    "question": "Part 162-64165-02 is on the shelf. Can it be used to replace part 162-34983-20 on a 737-800?",
+    "expected_answer": "No - 162-64165-02 is superseded by 162-34983-20; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-028"
+  },
+  {
+    "id": "Q018",
+    "category": "one_way_supersession",
+    "difficulty": "hard",
+    "question": "Part D24173076400 is on the shelf. Can it be used to replace part D24753947800 on a A321neo?",
+    "expected_answer": "No - D24173076400 is superseded by D24753947800; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_A320_ATA24_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-093"
+  },
+  {
+    "id": "Q019",
+    "category": "one_way_supersession",
+    "difficulty": "hard",
+    "question": "Part D28322043800 is on the shelf. Can it be used to replace part D25314135100 on a A320neo?",
+    "expected_answer": "No - D28322043800 is superseded by D25314135100; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_A320_ATA29_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-117"
+  },
+  {
+    "id": "Q020",
+    "category": "one_way_supersession",
+    "difficulty": "hard",
+    "question": "Part D27378801200 is on the shelf. Can it be used to replace part D23137911700 on a A321neo?",
+    "expected_answer": "No - D27378801200 is superseded by D23137911700; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_A320_ATA21_REV15.html"
+    ],
+    "verdict": "no",
+    "record_id": "IC-091"
+  },
+  {
+    "id": "Q021",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part D29216534200 effective on the A320neo?",
+    "expected_answer": "Yes - effective on: A320ceo, A320neo, A321neo.",
+    "expected_sources": [
+      "IPC_A320_ATA29_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q022",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part D20007085400 effective on the A320ceo?",
+    "expected_answer": "Yes - effective on: A320ceo, A320neo, A321neo.",
+    "expected_sources": [
+      "IPC_A320_ATA21_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q023",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part 162-83005-18 effective on the 737-700?",
+    "expected_answer": "Yes - effective on: 737-700, 737-800, 737-MAX8.",
+    "expected_sources": [
+      "IPC_B737_ATA78_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q024",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part 162-20084-10 effective on the 737-700?",
+    "expected_answer": "Yes - effective on: 737-700, 737-800.",
+    "expected_sources": [
+      "IPC_B737_ATA78_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q025",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part D22495564400 effective on the A321neo?",
+    "expected_answer": "Yes - effective on: A321neo.",
+    "expected_sources": [
+      "IPC_A320_ATA27_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q026",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part D26175582200 effective on the A321neo?",
+    "expected_answer": "Yes - effective on: A320ceo, A320neo, A321neo.",
+    "expected_sources": [
+      "IPC_A320_ATA27_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q027",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part D23046948700 effective on the A320neo?",
+    "expected_answer": "No - effective on: A321neo.",
+    "expected_sources": [
+      "IPC_A320_ATA73_REV15.html"
+    ],
+    "verdict": "no"
+  },
+  {
+    "id": "Q028",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part 60-59615-03 effective on the 737-700?",
+    "expected_answer": "Yes - effective on: 737-700, 737-800, 737-MAX8.",
+    "expected_sources": [
+      "IPC_B737_ATA21_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q029",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part D24876483300 effective on the A320ceo?",
+    "expected_answer": "Yes - effective on: A320ceo, A320neo, A321neo.",
+    "expected_sources": [
+      "IPC_A320_ATA29_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q030",
+    "category": "effectivity",
+    "difficulty": "easy",
+    "question": "Is part 60-16028-11 effective on the 737-700?",
+    "expected_answer": "Yes - effective on: 737-700, 737-800, 737-MAX8.",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "verdict": "yes"
+  },
+  {
+    "id": "Q031",
+    "category": "assembly_ata",
+    "difficulty": "easy",
+    "question": "Which assembly and ATA section is part 65-64379-21 listed under?",
+    "expected_answer": "HYDRAULIC FILTER MODULE, ATA 29-41-00 (29-41-00 FIG 1).",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ]
+  },
+  {
+    "id": "Q032",
+    "category": "assembly_ata",
+    "difficulty": "easy",
+    "question": "Which assembly and ATA section is part 162-57843-04 listed under?",
+    "expected_answer": "STARTER AIR VALVE, ATA 80-21-00 (80-21-00 FIG 1).",
+    "expected_sources": [
+      "IPC_B737_ATA80_REV15.html"
+    ]
+  },
+  {
+    "id": "Q033",
+    "category": "assembly_ata",
+    "difficulty": "easy",
+    "question": "Which assembly and ATA section is part D23595133700 listed under?",
+    "expected_answer": "FUEL FILTER HOUSING, ATA 73-21-00 (73-21-00 FIG 1).",
+    "expected_sources": [
+      "IPC_A320_ATA73_REV15.html"
+    ]
+  },
+  {
+    "id": "Q034",
+    "category": "assembly_ata",
+    "difficulty": "easy",
+    "question": "Which assembly and ATA section is part 162-21542-11 listed under?",
+    "expected_answer": "ENGINE DRIVEN HYDRAULIC PUMP, ATA 29-11-00 (29-11-00 FIG 1).",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ]
+  },
+  {
+    "id": "Q035",
+    "category": "assembly_ata",
+    "difficulty": "easy",
+    "question": "Which assembly and ATA section is part 285-72049-09 listed under?",
+    "expected_answer": "ISOLATION VALVE, ATA 36-41-00 (36-41-00 FIG 1).",
+    "expected_sources": [
+      "IPC_B737_ATA36_REV15.html"
+    ]
+  },
+  {
+    "id": "Q036",
+    "category": "assembly_ata",
+    "difficulty": "easy",
+    "question": "Which assembly and ATA section is part D27846161900 listed under?",
+    "expected_answer": "TRIM AIR PRESSURE REGULATOR, ATA 21-31-00 (21-31-00 FIG 1).",
+    "expected_sources": [
+      "IPC_A320_ATA21_REV15.html"
+    ]
+  },
+  {
+    "id": "Q037",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the EXHAUST NOZZLE on the 737 family, and which parts does it require?",
+    "expected_answer": "TASK 78-31-00-400-801; parts: 60-64053-05, 162-34123-29, 65-24026-04, 285-14433-27.",
+    "expected_sources": [
+      "AMM_B737_ATA78_78-31-00.html"
+    ],
+    "expected_parts": [
+      "60-64053-05",
+      "162-34123-29",
+      "65-24026-04",
+      "285-14433-27"
+    ]
+  },
+  {
+    "id": "Q038",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the FLAP DRIVE UNIT on the 737 family, and which parts does it require?",
+    "expected_answer": "TASK 27-31-00-400-801; parts: 69-15965-02, 285-88222-10, 162-74454-03, 285-47268-16.",
+    "expected_sources": [
+      "AMM_B737_ATA27_27-31-00.html"
+    ],
+    "expected_parts": [
+      "69-15965-02",
+      "285-88222-10",
+      "162-74454-03",
+      "285-47268-16"
+    ]
+  },
+  {
+    "id": "Q039",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the HYDRAULIC FIREWALL SHUTOFF VALVE on the A320 family, and which parts does it require?",
+    "expected_answer": "TASK 29-31-00-400-801; parts: D21058963600, D29655653400, D26164937400, D29216534200.",
+    "expected_sources": [
+      "AMM_A320_ATA29_29-31-00.html"
+    ],
+    "expected_parts": [
+      "D21058963600",
+      "D29655653400",
+      "D26164937400",
+      "D29216534200"
+    ]
+  },
+  {
+    "id": "Q040",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the FUEL METERING UNIT on the A320 family, and which parts does it require?",
+    "expected_answer": "TASK 73-11-00-400-801; parts: D25215339500, D29965194300, D25330307100, D28302447700.",
+    "expected_sources": [
+      "AMM_A320_ATA73_73-11-00.html"
+    ],
+    "expected_parts": [
+      "D25215339500",
+      "D29965194300",
+      "D25330307100",
+      "D28302447700"
+    ]
+  },
+  {
+    "id": "Q041",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the ENGINE BLEED VALVE on the A320 family, and which parts does it require?",
+    "expected_answer": "TASK 36-11-00-400-801; parts: D21291444600, D24229860200, D22682149800, D21375792700.",
+    "expected_sources": [
+      "AMM_A320_ATA36_36-11-00.html"
+    ],
+    "expected_parts": [
+      "D21291444600",
+      "D24229860200",
+      "D22682149800",
+      "D21375792700"
+    ]
+  },
+  {
+    "id": "Q042",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the ELEVATOR FEEL COMPUTER on the 737 family, and which parts does it require?",
+    "expected_answer": "TASK 27-21-00-400-801; parts: 162-23833-14, 65-56507-26, 162-30052-14, 60-41635-24.",
+    "expected_sources": [
+      "AMM_B737_ATA27_27-21-00.html"
+    ],
+    "expected_parts": [
+      "162-23833-14",
+      "65-56507-26",
+      "162-30052-14",
+      "60-41635-24"
+    ]
+  },
+  {
+    "id": "Q043",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the HYDROMECHANICAL UNIT on the 737 family, and which parts does it require?",
+    "expected_answer": "TASK 73-21-00-400-801; parts: 69-27992-04, 60-21725-21, 65-16653-22, 65-10679-18.",
+    "expected_sources": [
+      "AMM_B737_ATA73_73-21-00.html"
+    ],
+    "expected_parts": [
+      "69-27992-04",
+      "60-21725-21",
+      "65-16653-22",
+      "65-10679-18"
+    ]
+  },
+  {
+    "id": "Q044",
+    "category": "procedure_lookup",
+    "difficulty": "medium",
+    "question": "What AMM task covers removal/installation of the GENERATOR CONTROL UNIT on the 737 family, and which parts does it require?",
+    "expected_answer": "TASK 24-21-00-400-801; parts: 65-53540-26, 65-39219-01, 285-53404-01, 65-44970-06.",
+    "expected_sources": [
+      "AMM_B737_ATA24_24-21-00.html"
+    ],
+    "expected_parts": [
+      "65-53540-26",
+      "65-39219-01",
+      "285-53404-01",
+      "65-44970-06"
+    ]
+  },
+  {
+    "id": "Q045",
+    "category": "alternates_multihop",
+    "difficulty": "hard",
+    "question": "A A320ceo needs part D24945966700 and none is in stock. List every approved alternate valid for this aircraft and any conditions.",
+    "expected_answer": "D22294370200: Yes - D22294370200 is interchangeable with D24945966700 (two-way).",
+    "expected_sources": [
+      "IPC_A320_ATA27_REV15.html"
+    ],
+    "record_ids": [
+      "IC-106"
+    ]
+  },
+  {
+    "id": "Q046",
+    "category": "alternates_multihop",
+    "difficulty": "hard",
+    "question": "A 737-MAX8 needs part 162-34957-04 and none is in stock. List every approved alternate valid for this aircraft and any conditions.",
+    "expected_answer": "285-31643-09: No - 285-31643-09 is superseded by 162-34957-04; the old part may not be used to replace the new part.",
+    "expected_sources": [
+      "IPC_B737_ATA21_REV15.html"
+    ],
+    "record_ids": [
+      "IC-006"
+    ]
+  },
+  {
+    "id": "Q047",
+    "category": "alternates_multihop",
+    "difficulty": "hard",
+    "question": "A 737-MAX8 needs part 285-54869-18 and none is in stock. List every approved alternate valid for this aircraft and any conditions.",
+    "expected_answer": "285-59767-29: Yes - 285-59767-29 is interchangeable with 285-54869-18 (two-way).",
+    "expected_sources": [
+      "IPC_B737_ATA73_REV15.html"
+    ],
+    "record_ids": [
+      "IC-063"
+    ]
+  },
+  {
+    "id": "Q048",
+    "category": "alternates_multihop",
+    "difficulty": "hard",
+    "question": "A 737-800 needs part 60-27601-09 and none is in stock. List every approved alternate valid for this aircraft and any conditions.",
+    "expected_answer": "65-81511-02: Yes - 65-81511-02 is interchangeable with 60-27601-09 (two-way).",
+    "expected_sources": [
+      "IPC_B737_ATA24_REV15.html"
+    ],
+    "record_ids": [
+      "IC-012"
+    ]
+  },
+  {
+    "id": "Q049",
+    "category": "alternates_multihop",
+    "difficulty": "hard",
+    "question": "A 737-MAX8 needs part 65-40433-15 and none is in stock. List every approved alternate valid for this aircraft and any conditions.",
+    "expected_answer": "162-95175-03: Yes - 162-95175-03 is interchangeable with 65-40433-15 (two-way).",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "record_ids": [
+      "IC-033"
+    ]
+  },
+  {
+    "id": "Q050",
+    "category": "alternates_multihop",
+    "difficulty": "hard",
+    "question": "A 737-700 needs part 285-90422-22 and none is in stock. List every approved alternate valid for this aircraft and any conditions.",
+    "expected_answer": "60-22026-24: Yes, but only after SB 32-2217 is embodied.",
+    "expected_sources": [
+      "IPC_B737_ATA32_REV15.html"
+    ],
+    "record_ids": [
+      "IC-042"
+    ]
+  },
+  {
+    "id": "Q051",
+    "category": "cross_doc_conflict",
+    "difficulty": "hard",
+    "question": "The CMM for part 60-62538-22 says 65-69634-24 is interchangeable with no restrictions. Does the IPC agree?",
+    "expected_answer": "Conflict - IPC says: INTERCHANGEABLE WITH 60-62538-22 - 737-700 ONLY. Follow the IPC and escalate the discrepancy; do not rely on the CMM statement.",
+    "expected_sources": [
+      "CMM_KESTREL_01_60-62538-22.html",
+      "IPC_B737_ATA73_REV15.html"
+    ],
+    "record_id": "IC-066"
+  },
+  {
+    "id": "Q052",
+    "category": "cross_doc_conflict",
+    "difficulty": "hard",
+    "question": "The CMM for part 60-36342-26 says 285-33850-25 is interchangeable with no restrictions. Does the IPC agree?",
+    "expected_answer": "Conflict - IPC says: INTERCHANGEABLE WITH 60-36342-26 - 737-800, 737-MAX8 ONLY. Follow the IPC and escalate the discrepancy; do not rely on the CMM statement.",
+    "expected_sources": [
+      "CMM_KESTREL_03_60-36342-26.html",
+      "IPC_B737_ATA49_REV15.html"
+    ],
+    "record_id": "IC-058"
+  },
+  {
+    "id": "Q053",
+    "category": "cross_doc_conflict",
+    "difficulty": "hard",
+    "question": "The CMM for part 285-78723-16 says 162-50213-06 is interchangeable with no restrictions. Does the IPC agree?",
+    "expected_answer": "Conflict - IPC says: ALTERNATE FOR 285-78723-16 AFTER INCORPORATION OF SB 73-0388. Follow the IPC and escalate the discrepancy; do not rely on the CMM statement.",
+    "expected_sources": [
+      "CMM_PELICAN_05_285-78723-16.html",
+      "IPC_B737_ATA73_REV15.html"
+    ],
+    "record_id": "IC-065"
+  },
+  {
+    "id": "Q054",
+    "category": "revision_conflict",
+    "difficulty": "hard",
+    "question": "What is the current interchangeability statement for 65-47752-15 / 162-54548-26, and did it change between IPC Rev 14 and Rev 15?",
+    "expected_answer": "Rev 15 (current): ALTERNATE FOR 65-47752-15 AFTER INCORPORATION OF SB 29-0388. Rev 14 said: ALTERNATE FOR 65-47752-15. PARTS ARE INTERCHANGEABLE.",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV14.html",
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "record_id": "IC-029"
+  },
+  {
+    "id": "Q055",
+    "category": "revision_conflict",
+    "difficulty": "hard",
+    "question": "What is the current interchangeability statement for 162-58629-22 / 65-84000-07, and did it change between IPC Rev 14 and Rev 15?",
+    "expected_answer": "Rev 15 (current): SUPERSEDES 162-58629-22. 162-58629-22 IS NOT INTERCHANGEABLE WITH THIS PART (ONE-WAY). Rev 14 said: ALTERNATE FOR 162-58629-22. PARTS ARE INTERCHANGEABLE.",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV14.html",
+      "IPC_B737_ATA29_REV15.html"
+    ],
+    "record_id": "IC-038"
+  },
+  {
+    "id": "Q056",
+    "category": "revision_conflict",
+    "difficulty": "hard",
+    "question": "What is the current interchangeability statement for 285-90422-22 / 60-22026-24, and did it change between IPC Rev 14 and Rev 15?",
+    "expected_answer": "Rev 15 (current): INTERCHANGEABLE WITH 285-90422-22 WHEN SB 32-2217 IS EMBODIED. Rev 14 said: INTERCHANGEABLE WITH 285-90422-22 (TWO-WAY).",
+    "expected_sources": [
+      "IPC_B737_ATA32_REV14.html",
+      "IPC_B737_ATA32_REV15.html"
+    ],
+    "record_id": "IC-042"
+  },
+  {
+    "id": "Q057",
+    "category": "revision_conflict",
+    "difficulty": "hard",
+    "question": "What is the current interchangeability statement for 285-30036-25 / 69-20057-21, and did it change between IPC Rev 14 and Rev 15?",
+    "expected_answer": "Rev 15 (current): REPLACES 285-30036-25. THIS PART MAY REPLACE 285-30036-25; 285-30036-25 MAY NOT BE USED TO REPLACE THIS PART. Rev 14 said: INTERCHANGEABLE WITH 285-30036-25 (TWO-WAY).",
+    "expected_sources": [
+      "IPC_B737_ATA32_REV14.html",
+      "IPC_B737_ATA32_REV15.html"
+    ],
+    "record_id": "IC-046"
+  },
+  {
+    "id": "Q058",
+    "category": "cross_doc_mentions",
+    "difficulty": "medium",
+    "question": "Which manuals reference part 69-69878-28?",
+    "expected_answer": "IPC_B737_ATA29_REV14.html, IPC_B737_ATA29_REV15.html",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV14.html",
+      "IPC_B737_ATA29_REV15.html"
+    ]
+  },
+  {
+    "id": "Q059",
+    "category": "cross_doc_mentions",
+    "difficulty": "medium",
+    "question": "Which manuals reference part 65-47752-15?",
+    "expected_answer": "IPC_B737_ATA29_REV14.html, IPC_B737_ATA29_REV15.html",
+    "expected_sources": [
+      "IPC_B737_ATA29_REV14.html",
+      "IPC_B737_ATA29_REV15.html"
+    ]
+  },
+  {
+    "id": "Q060",
+    "category": "cross_doc_mentions",
+    "difficulty": "medium",
+    "question": "Which manuals reference part 285-33850-25?",
+    "expected_answer": "CMM_KESTREL_03_60-36342-26.html, IPC_B737_ATA49_REV15.html",
+    "expected_sources": [
+      "CMM_KESTREL_03_60-36342-26.html",
+      "IPC_B737_ATA49_REV15.html"
+    ]
+  },
+  {
+    "id": "Q061",
+    "category": "cross_doc_mentions",
+    "difficulty": "medium",
+    "question": "Which manuals reference part 285-90422-22?",
+    "expected_answer": "IPC_B737_ATA32_REV14.html, IPC_B737_ATA32_REV15.html",
+    "expected_sources": [
+      "IPC_B737_ATA32_REV14.html",
+      "IPC_B737_ATA32_REV15.html"
+    ]
+  }
+]

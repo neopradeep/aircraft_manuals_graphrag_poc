@@ -1,0 +1,347 @@
+[
+  {
+    "file": "AMM_A320_ATA21_21-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA27_27-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA27_27-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA27_27-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA29_29-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA29_29-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA29_29-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA32_32-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA36_36-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA73_73-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA73_73-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_A320_ATA73_73-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA21_21-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA21_21-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA21_21-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA21_21-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA24_24-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA24_24-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA27_27-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA27_27-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA27_27-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA29_29-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA29_29-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA32_32-11-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA32_32-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA32_32-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA36_36-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA49_49-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA49_49-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA49_49-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA73_73-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA73_73-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA78_78-21-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA78_78-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA80_80-31-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "AMM_B737_ATA80_80-41-00.html",
+    "type": "AMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_BRIGHTWATER_06_285-97012-21.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_KESTREL_01_60-62538-22.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_KESTREL_03_60-36342-26.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_KESTREL_08_D20646649900.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_KESTREL_09_D20581326300.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_KESTREL_13_65-55745-29.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_KESTREL_14_285-62350-12.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_NORDEN_02_D23203499200.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_NORDEN_07_162-88172-03.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_NORDEN_12_D26356054100.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_PELICAN_05_285-78723-16.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_TAMARACK_04_D21673781200.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_TAMARACK_10_162-41797-23.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "CMM_TAMARACK_11_65-68222-20.html",
+    "type": "CMM",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA21_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA24_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA27_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA29_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA32_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA36_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_A320_ATA73_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA21_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA24_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA27_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA29_REV14.html",
+    "type": "IPC",
+    "revision": 14
+  },
+  {
+    "file": "IPC_B737_ATA29_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA32_REV14.html",
+    "type": "IPC",
+    "revision": 14
+  },
+  {
+    "file": "IPC_B737_ATA32_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA36_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA49_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA73_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA78_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  },
+  {
+    "file": "IPC_B737_ATA80_REV15.html",
+    "type": "IPC",
+    "revision": 15
+  }
+]
