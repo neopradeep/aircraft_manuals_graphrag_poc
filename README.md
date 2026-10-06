@@ -1,4 +1,4 @@
-# Aircraft Maintenance Manuals + Knowledge Graph (GraphRAG proof of concept)
+# Aircraft Maintenance Manuals + Knowledge Graph (GraphRAG proof of concept)....WIP
 
 An experiment: **can a knowledge graph answer aircraft parts questions more reliably than plain AI search?**
 
